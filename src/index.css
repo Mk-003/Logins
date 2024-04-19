@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 
+  'Cormorant Infant';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #D2E7F3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
